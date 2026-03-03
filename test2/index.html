@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Advanced Registration</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<form id="registerForm">
+
+<h2>Create Account</h2>
+
+<div class="input-box">
+<i class="fa fa-user"></i>
+<input type="text" id="fullname" placeholder="Full Name">
+</div>
+<small id="nameError"></small>
+
+<div class="input-box">
+<i class="fa fa-user-circle"></i>
+<input type="text" id="username" placeholder="Username">
+</div>
+<small id="usernameError"></small>
+
+<div class="input-box">
+<i class="fa fa-envelope"></i>
+<input type="email" id="email" placeholder="Email">
+</div>
+<small id="emailError"></small>
+
+<div class="input-box">
+<i class="fa fa-phone"></i>
+<input type="tel" id="phone" placeholder="Phone Number">
+</div>
+<small id="phoneError"></small>
+
+<div class="input-box">
+<i class="fa fa-lock"></i>
+<input type="password" id="password" placeholder="Password">
+<i class="fa fa-eye toggle" id="togglePass"></i>
+</div>
+<small id="passError"></small>
+
+<div class="input-box">
+<i class="fa fa-lock"></i>
+<input type="password" id="confirmPass" placeholder="Confirm Password">
+<i class="fa fa-eye toggle" id="toggleConfirm"></i>
+</div>
+<small id="confirmError"></small>
+
+<button type="submit">Register</button>
+
+<p id="success"></p>
+
+</form>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
