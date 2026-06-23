@@ -5,10 +5,10 @@ export default function Footer() {
   const [activeLink, setActiveLink] = useState(null)
 
   const links = [
-    { label: "Home",     to: "/" },
     { label: "Products", to: "/" },
     { label: "Cart",     to: "/carts" },
     { label: "Brands",   to: "/brands" },
+    { label: "Orders",     to: "/allorders" },
   ]
 
   return (
