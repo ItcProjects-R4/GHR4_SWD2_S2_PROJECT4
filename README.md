@@ -50,4 +50,4 @@ npm run dev
 
 ## 🎥 Demo Video
 
-https://youtu.be/HvtNj-YP81U
+https://drive.google.com/file/d/13T7hZ6F8NqAjcpHs-Lk-1WxwkMTRCPmY/view?usp=drivesdk
