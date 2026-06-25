@@ -1,13 +1,13 @@
-# ⚡ Volt Market
+#  Volt Market
 
 Volt Market is a modern e-commerce website where users can browse products, add items to their cart, and checkout easily. The site is fully responsive and works on all devices.
 
-🔗 **Live Demo:** https://anwarabotaleb-full-dev.github.io/Volt-Market/
+ **Live Demo:** https://anwarabotaleb-full-dev.github.io/Volt-Market/
 
 ---
 
 
-## 🛠️ Built With
+##  Built With
 
 - React
 - Bootstrap
@@ -16,7 +16,7 @@ Volt Market is a modern e-commerce website where users can browse products, add 
 
 ---
 
-## ✨ Features
+##  Features
 
 - User registration and login
 - Browse products by category and brand
@@ -27,7 +27,7 @@ Volt Market is a modern e-commerce website where users can browse products, add 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/anwarabotaleb-Full-dev/Volt-Market.git
@@ -38,7 +38,7 @@ npm run dev
 
 ---
 
-## 👥 Team
+##  Team
 
 - Anwar Khaled Abotaleb
 - Ahmed AbdElghafar Hammad
@@ -48,6 +48,6 @@ npm run dev
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 https://drive.google.com/file/d/13T7hZ6F8NqAjcpHs-Lk-1WxwkMTRCPmY/view?usp=drivesdk
